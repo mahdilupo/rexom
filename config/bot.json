@@ -1,17 +1,17 @@
 {
     "activity": {
-        "name": "<The Bot Activity Name (that waht is the bot will type in his activity)>",
-        "type": "<The Bot Activity Type (that what is the bot activity type  will be ['PLAYING', 'LISTENING', 'WATCHING', 'COMPETING'])>"
+        "name": "pcGamers.live",
+        "type": "WATCHING"
     },
-    "status": "<The Bot Status (that what is the bot status will be ['dnd', 'online', 'idle])>",
+    "status": "online",
 
-    "domain": "<The Bot Website Domain (the dashboard domain)>",
-    "clientID": "<The Bot Id (that you will find it in the OAuth2)>",
-    "clientSECRET": "<The Bot Secret (that you will find it in the OAuth2)>",
+    "domain": "http://pcgamers.live/",
+    "clientID": "889445342616100894",
+    "clientSECRET": "eMy7vB5GL7ud1DHmlNRFxEgxaamhcBZl",
 
-    "mainPrefix": "<The Bot Prefix (that what the bot will starts commands)>",
-    "mainLang": "<The Bot Lang, only: ['ar', 'en']>",
-    "ownerID": "<The Onwer Id (this is importing for sent the full updates for the bot)>",
+    "mainPrefix": "!",
+    "mainLang": "en",
+    "ownerID": "429656649264005121",
 
-    "panelType": "<the type of the contorle panel ['buttons', 'reactions', 'none']>"
+    "panelType": "buttons"
 }
